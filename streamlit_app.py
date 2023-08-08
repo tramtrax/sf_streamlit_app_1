@@ -1,10 +1,11 @@
 import streamlit
 
-streamlit.title('This is the title of the app')
-streamlit.header('And this is a header')
-streamlit.text('Here\'s some text...')
-streamlit.text('... and here\'s some more')
+streamlit.title('The Healthy Diner')
 
-streamlit.text('Here - have some emojis: 🥣 🥗 🐔 🥑🍞')
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado on Toast')
 
-streamlit.header('🍌🥭 Header with emojis 🥝🍇')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
